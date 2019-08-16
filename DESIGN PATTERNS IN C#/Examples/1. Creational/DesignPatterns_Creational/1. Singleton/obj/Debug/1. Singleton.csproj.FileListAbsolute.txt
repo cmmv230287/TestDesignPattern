@@ -1,0 +1,7 @@
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\1. Singleton\bin\Debug\_1.Singleton.exe.config
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\1. Singleton\bin\Debug\_1.Singleton.exe
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\1. Singleton\bin\Debug\_1.Singleton.pdb
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\1. Singleton\obj\Debug\1. Singleton.csproj.CoreCompileInputs.cache
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\1. Singleton\obj\Debug\_1.Singleton.exe
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\1. Singleton\obj\Debug\_1.Singleton.pdb
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\1. Singleton\obj\Debug\1. Singleton.csprojResolveAssemblyReference.cache

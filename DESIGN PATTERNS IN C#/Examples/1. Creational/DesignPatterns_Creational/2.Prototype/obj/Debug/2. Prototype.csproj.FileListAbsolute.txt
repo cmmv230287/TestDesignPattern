@@ -1,0 +1,7 @@
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\2.Prototype\bin\Debug\2.Prototype.exe.config
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\2.Prototype\bin\Debug\2.Prototype.exe
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\2.Prototype\bin\Debug\2.Prototype.pdb
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\2.Prototype\obj\Debug\2. Prototype.csprojResolveAssemblyReference.cache
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\2.Prototype\obj\Debug\2. Prototype.csproj.CoreCompileInputs.cache
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\2.Prototype\obj\Debug\2.Prototype.exe
+E:\CURSOS\DESIGN PATTERNS IN C#\Examples\1. Creational\DesignPatterns_Creational\2.Prototype\obj\Debug\2.Prototype.pdb
